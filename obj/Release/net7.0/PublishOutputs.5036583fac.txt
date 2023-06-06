@@ -1,0 +1,7 @@
+C:\Users\Joselle\Azuredotnetwebbapp\bin\Release\net7.0\publish\Azuredotnetwebbapp.exe
+C:\Users\Joselle\Azuredotnetwebbapp\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\Joselle\Azuredotnetwebbapp\bin\Release\net7.0\publish\appsettings.json
+C:\Users\Joselle\Azuredotnetwebbapp\bin\Release\net7.0\publish\Azuredotnetwebbapp.dll
+C:\Users\Joselle\Azuredotnetwebbapp\bin\Release\net7.0\publish\Azuredotnetwebbapp.deps.json
+C:\Users\Joselle\Azuredotnetwebbapp\bin\Release\net7.0\publish\Azuredotnetwebbapp.runtimeconfig.json
+C:\Users\Joselle\Azuredotnetwebbapp\bin\Release\net7.0\publish\Azuredotnetwebbapp.pdb
